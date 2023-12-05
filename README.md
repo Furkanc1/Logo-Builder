@@ -1,4 +1,8 @@
 # Logo-Builder
+
+Used Tutor help + outside resources (fullstack websites, etc.) + chatpgt as a guide to help explain certain components to me as I went along
+
+
 build a Node.js command-line application that takes in user input to generate a logo and save it as an SVG file
 
 # SVG Logo Maker
